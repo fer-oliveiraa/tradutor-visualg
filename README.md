@@ -1,4 +1,4 @@
-# Tradutor VisuAlg (Compiler Frontend) 
+# Tradutor VisuAlg  
 
 Este projeto é um tradutor para a linguagem **VisuAlg**, desenvolvido em C utilizando as ferramentas **Flex** e **Bison**.
 O foco atual do projeto é realizar a análise léxica e sintática do código fonte para construir e visualizar a **Árvore Sintática Abstrata (AST)**.
